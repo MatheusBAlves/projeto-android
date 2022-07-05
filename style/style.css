@@ -80,9 +80,10 @@ header>p {
 nav {
     background: var(--cor5);
     padding: 10px;
+    gap: 5px;
     box-shadow: 0 7px 9px rgba(0, 0, 0, 0.363);
     display: flex;
-    flex-wrap: wrap
+    flex-wrap: wrap;
 }
 
 nav>a {
